@@ -1,0 +1,40 @@
+.comm{
+    height: auto;
+    width: 100%;
+    margin-left: 94px;
+   
+}
+.personal{
+    display: flex;
+    padding-top: 34px;
+    align-items: center;
+    
+}
+
+.write__comment{
+    margin-right: 34px; 
+    background-color: rgba(167, 177, 177, 0.996);
+    border-radius: 34px;
+    display: flex;
+    height: 56px;
+    width: 390px;
+   
+   
+}
+.write__comment > input{
+    border: none;
+    background-color: transparent;
+    outline-width: 0;
+    width: 100%;
+}
+.user__comment{
+    margin-top: 56px;
+   
+}
+.user__account{
+    display: flex;
+    align-items: center;
+}
+.user__account > h3{
+    padding-left: 34px;
+}

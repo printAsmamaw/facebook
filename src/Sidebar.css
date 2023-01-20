@@ -1,0 +1,21 @@
+.sidebar{
+    overflow-y: scroll;
+    width: 20%;
+    height: 100vh;
+}
+
+.image > img{
+    height: 40px;
+   margin-right: 22px;
+}
+.sidebar__option{
+    display: flex;
+    align-items: center;
+    padding-left: 4px;
+    padding-top: 20px;
+    
+}
+.icon__option{
+    padding-left: 23px;
+    padding-right: 34px;
+}

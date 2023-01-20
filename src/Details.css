@@ -1,0 +1,9 @@
+.Details{
+    max-width: 80%;
+    height: auto;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.Details::-webkit-scrollbar{
+    display: none;
+}
